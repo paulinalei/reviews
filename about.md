@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I'm Paulina.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+This site is for me to review random things. I got into reviewing after writing Yelp reviews for food, so I thought setting up a Jekyll blog would be a good medium to write reviews as well as give me experience in coding. I will be reviewing almost anything except food. If you are interested in reading those, the link for my Yelp profile is [here](https://paulinalei.yelp.com).

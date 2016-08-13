@@ -9,7 +9,7 @@
 title: Paulina Lei Reviews
 email: paulina.y.lei@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is site where I review things at my discretion.
+  Paulina Lei Reviews &copy; 2016
 baseurl: "/reviews" # the subpath of your site, e.g. /blog
 url: "paulinalei.github.io" # the base hostname & protocol for your site
 github_username:  paulinalei

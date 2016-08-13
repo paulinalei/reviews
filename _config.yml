@@ -16,3 +16,4 @@ github_username:  paulinalei
 
 # Build settings
 markdown: kramdown
+timezone: America/Los_Angeles
